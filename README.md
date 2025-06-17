@@ -4,9 +4,9 @@
 
 I am a cybernetic and computational systems engineer. I am expanding my knowledge in cybersecurity field and also in the multi-platform software developer. Now a day i work in infraestructure & operations.
 - 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
+  - Swift
+  - React-Native
+- 👯 I’m looking forward to work on a startup.
 - 🎮 I like to play videogames, 🎵 listening to music, and play basketball.
 - 👾 Additionally, I am working on my personal indi game!
 - 📫 Reach out to me at: <a href="santbwaldenw2@gmail.com ">santbwaldenw2@gmail.com</a>
